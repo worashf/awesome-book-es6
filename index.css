@@ -72,11 +72,10 @@ header {
   margin: 2rem 5%;
 }
 
-#book-list{
+#book-list {
   border: 2px solid #111;
   width: 100%;
   margin: 15px 0 15px 0;
-
 }
 
 .book-item {
@@ -84,8 +83,6 @@ header {
   justify-content: space-between;
   padding: 1rem;
   width: 100%;
- 
-
 }
 
 .gray-back {
